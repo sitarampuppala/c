@@ -53,3 +53,4 @@ dkms.conf
 *.tlog
 *.log
 *.sdf
+*.opensdf
